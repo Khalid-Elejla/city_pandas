@@ -1,0 +1,51 @@
+complaint_id,date,category,description,location,status,priority_level,department,response_time_days
+CMP001,2023-01-15,Pothole,Large pothole causing vehicle damage,123 Main St,Resolved,High,Public Works,3
+CMP002,2023-01-16,Noise,Loud construction work after hours,456 Oak Ave,Closed,Medium,Code Enforcement,2
+CMP003,2023-01-17,Garbage,Missed garbage collection for 2 weeks,789 Pine Rd,Resolved,Medium,Sanitation,4
+CMP004,2023-01-18,Street Light,Broken street light causing safety concerns,234 Elm St,In Progress,High,Public Works,5
+CMP005,2023-01-19,Graffiti,Offensive graffiti on public building,567 Maple Dr,Resolved,Low,Parks & Recreation,7
+CMP006,2023-01-20,Water Leak,Water main break flooding sidewalk,890 Cedar Ln,Resolved,High,Utilities,1
+CMP007,2023-01-21,Traffic Signal,Malfunctioning traffic light,432 Birch Ave,Resolved,High,Transportation,2
+CMP008,2023-01-22,Sidewalk,Cracked and uneven sidewalk,765 Spruce St,In Progress,Medium,Public Works,8
+CMP009,2023-01-23,Noise,Barking dog disturbing neighborhood,321 Willow Rd,Closed,Low,Animal Control,3
+CMP010,2023-01-24,Garbage,Overflowing public trash bin,654 Cherry Ln,Resolved,Medium,Sanitation,2
+CMP011,2023-01-25,Street Light,Multiple lights out on residential street,987 Ash Dr,In Progress,Medium,Public Works,6
+CMP012,2023-01-26,Pothole,Series of potholes damaging vehicles,147 Oak St,In Progress,High,Public Works,4
+CMP013,2023-01-27,Parking,Illegal parking blocking driveway,258 Pine Ave,Resolved,Medium,Parking Enforcement,1
+CMP014,2023-01-28,Tree,Fallen tree blocking road,369 Maple Rd,Resolved,High,Parks & Recreation,2
+CMP015,2023-01-29,Drainage,Clogged storm drain causing flooding,741 Cedar St,In Progress,High,Public Works,5
+CMP016,2023-01-30,Noise,Loud music from restaurant,852 Elm Ave,Under Review,Low,Code Enforcement,4
+CMP017,2023-01-31,Garbage,Illegal dumping in vacant lot,963 Birch Rd,In Progress,Medium,Sanitation,6
+CMP018,2023-02-01,Street Light,Flickering street light,159 Spruce Dr,Resolved,Low,Public Works,3
+CMP019,2023-02-02,Traffic,Speeding vehicles in school zone,357 Willow St,In Progress,High,Transportation,4
+CMP020,2023-02-03,Sidewalk,Missing sidewalk sections,456 Cherry Ave,Under Review,Medium,Public Works,7
+CMP021,2023-02-04,Water Quality,Brown water from tap,789 Ash Ln,Resolved,High,Utilities,2
+CMP022,2023-02-05,Noise,Construction site violating hours,147 Main Dr,Closed,Medium,Code Enforcement,3
+CMP023,2023-02-06,Pothole,Deep pothole causing traffic backup,258 Oak Rd,In Progress,High,Public Works,4
+CMP024,2023-02-07,Graffiti,Gang-related graffiti in park,369 Pine St,Resolved,High,Parks & Recreation,2
+CMP025,2023-02-08,Street Light,Dark intersection needs lighting,741 Maple Ave,Under Review,Medium,Public Works,8
+CMP026,2023-02-09,Garbage,Missed recycling pickup,852 Cedar Dr,Resolved,Low,Sanitation,3
+CMP027,2023-02-10,Traffic Signal,Pedestrian signal not working,963 Elm Rd,In Progress,High,Transportation,4
+CMP028,2023-02-11,Drainage,Standing water after rain,159 Birch St,Under Review,Medium,Public Works,6
+CMP029,2023-02-12,Noise,Late night bar noise,357 Spruce Ave,In Progress,Medium,Code Enforcement,5
+CMP030,2023-02-13,Tree,Overgrown tree blocking sign,456 Willow Dr,Resolved,Low,Parks & Recreation,7
+CMP031,2023-02-14,Pothole,Multiple potholes on bridge,789 Cherry Rd,In Progress,High,Public Works,5
+CMP032,2023-02-15,Parking,Abandoned vehicle,147 Ash St,Resolved,Low,Parking Enforcement,4
+CMP033,2023-02-16,Street Light,Light pole damaged by accident,258 Main Ave,Resolved,High,Public Works,2
+CMP034,2023-02-17,Garbage,Litter problem in park,369 Oak Dr,In Progress,Medium,Parks & Recreation,6
+CMP035,2023-02-18,Sidewalk,Trip hazard on sidewalk,741 Pine Ln,Under Review,High,Public Works,4
+CMP036,2023-02-19,Noise,Industrial noise at night,852 Maple Rd,In Progress,Medium,Code Enforcement,5
+CMP037,2023-02-20,Water Leak,Leaking fire hydrant,963 Cedar St,Resolved,High,Utilities,1
+CMP038,2023-02-21,Traffic,Running stop sign complaints,159 Elm Ave,Under Review,Medium,Transportation,7
+CMP039,2023-02-22,Graffiti,Graffiti on playground equipment,357 Birch Dr,Resolved,Low,Parks & Recreation,3
+CMP040,2023-02-23,Street Light,Entire block without lights,456 Spruce Rd,In Progress,High,Public Works,4
+CMP041,2023-02-24,Garbage,Illegal dumping in alley,789 Willow St,Under Review,Medium,Sanitation,6
+CMP042,2023-02-25,Pothole,Pothole causing bike accidents,147 Cherry Ave,In Progress,High,Public Works,3
+CMP043,2023-02-26,Parking,Blocked handicap access,258 Ash Dr,Resolved,High,Parking Enforcement,1
+CMP044,2023-02-27,Drainage,Flooding on major road,369 Main Rd,In Progress,High,Public Works,2
+CMP045,2023-02-28,Noise,House party complaints,741 Oak Ln,Closed,Low,Code Enforcement,1
+CMP046,2023-03-01,Tree,Dead tree at risk of falling,852 Pine St,Under Review,High,Parks & Recreation,5
+CMP047,2023-03-02,Traffic Signal,Signal timing issues,963 Maple Ave,In Progress,Medium,Transportation,4
+CMP048,2023-03-03,Sidewalk,Sidewalk blocked by construction,159 Cedar Dr,Resolved,Medium,Public Works,3
+CMP049,2023-03-04,Street Light,Light pollution complaints,357 Elm Rd,Under Review,Low,Public Works,7
+CMP050,2023-03-05,Garbage,Commercial waste violations,456 Birch St,In Progress,Medium,Sanitation,5

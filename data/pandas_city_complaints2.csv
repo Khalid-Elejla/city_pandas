@@ -1,0 +1,501 @@
+Complaint ID,Date,Category,Description,Location,Status,Priority Level,Department,Response Time (Days),latitude,longitude
+CMP-1000,10/16/2024,Water Leakage,Water Leakage reported in Parks,Residential Area,In Progress,Medium,Water Management,,34.052235,-118.244429
+CMP-1001,11/13/2023,Street Lighting,Street Lighting reported in City Center,Industrial Area,Pending,Medium,Water Management,,34.053676,-118.242763
+CMP-1002,5/15/2024,Noise Complaint,Noise Complaint reported in City Center,City Center,Pending,High,Parks & Recreation,,34.051422,-118.246813
+CMP-1003,5/28/2024,Water Leakage,Water Leakage reported in Residential Area,Parks,Resolved,Low,Sanitation,13,34.051422,-118.246813
+CMP-1004,7/18/2023,Illegal Parking,Illegal Parking reported in Parks,Parks,Resolved,Medium,Traffic,18,34.0510155,-118.248005
+CMP-1005,10/31/2024,Garbage Collection,Garbage Collection reported in Parks,Residential Area,Pending,Low,Traffic,,34.0505462,-118.2491252
+CMP-1006,2/23/2023,Potholes,Potholes reported in Suburbs,City Center,Pending,Critical,Sanitation,,34.0500769,-118.2502454
+CMP-1007,9/26/2023,Garbage Collection,Garbage Collection reported in Residential Area,Suburbs,Escalated,Low,Sanitation,,34.0496076,-118.2513656
+CMP-1008,2/7/2024,Illegal Parking,Illegal Parking reported in Parks,City Center,Resolved,Medium,Parks & Recreation,25,34.0491383,-118.2524858
+CMP-1009,7/29/2024,Noise Complaint,Noise Complaint reported in Parks,Residential Area,Escalated,High,Traffic,,34.048669,-118.253606
+CMP-1010,8/14/2024,Noise Complaint,Noise Complaint reported in Suburbs,City Center,In Progress,High,Parks & Recreation,,34.0481997,-118.2547262
+CMP-1011,7/29/2024,Street Lighting,Street Lighting reported in City Center,Industrial Area,Resolved,High,Water Management,9,34.0477304,-118.2558464
+CMP-1012,11/17/2023,Garbage Collection,Garbage Collection reported in Downtown,Parks,Pending,Medium,Water Management,,34.0472611,-118.2569666
+CMP-1013,11/30/2023,Potholes,Potholes reported in City Center,Residential Area,In Progress,Low,Sanitation,,34.0467918,-118.2580868
+CMP-1014,10/13/2023,Noise Complaint,Noise Complaint reported in City Center,Suburbs,Resolved,Medium,Public Works,13,34.0463225,-118.259207
+CMP-1015,12/2/2024,Street Lighting,Street Lighting reported in Industrial Area,Industrial Area,Resolved,Low,Parks & Recreation,28,34.0458532,-118.2603272
+CMP-1016,4/19/2024,Garbage Collection,Garbage Collection reported in City Center,City Center,Resolved,Low,Traffic,5,34.0453839,-118.2614474
+CMP-1017,3/5/2024,Garbage Collection,Garbage Collection reported in Residential Area,Industrial Area,Escalated,Critical,Traffic,,34.0449146,-118.2625676
+CMP-1018,8/4/2024,Noise Complaint,Noise Complaint reported in Residential Area,Industrial Area,Resolved,High,Traffic,3,34.0444453,-118.2636878
+CMP-1019,10/20/2024,Street Lighting,Street Lighting reported in Downtown,City Center,Resolved,Medium,Water Management,15,34.043976,-118.264808
+CMP-1020,5/13/2024,Illegal Parking,Illegal Parking reported in Parks,Residential Area,In Progress,High,Traffic,,34.0435067,-118.2659282
+CMP-1021,9/9/2024,Illegal Parking,Illegal Parking reported in Parks,Industrial Area,Resolved,Low,Water Management,2,34.0430374,-118.2670484
+CMP-1022,4/22/2023,Water Leakage,Water Leakage reported in City Center,Residential Area,Resolved,Low,Sanitation,18,34.0425681,-118.2681686
+CMP-1023,3/1/2023,Street Lighting,Street Lighting reported in Residential Area,City Center,Resolved,Medium,Sanitation,5,34.0420988,-118.2692888
+CMP-1024,2/23/2024,Garbage Collection,Garbage Collection reported in Suburbs,Industrial Area,Resolved,Medium,Parks & Recreation,14,34.0416295,-118.270409
+CMP-1025,11/17/2023,Noise Complaint,Noise Complaint reported in Suburbs,Suburbs,Escalated,Low,Public Works,,34.0411602,-118.2715292
+CMP-1026,9/6/2023,Street Lighting,Street Lighting reported in Industrial Area,Residential Area,Resolved,Low,Water Management,16,34.0406909,-118.2726494
+CMP-1027,4/3/2023,Water Leakage,Water Leakage reported in Parks,City Center,Pending,High,Public Works,,34.0402216,-118.2737696
+CMP-1028,12/18/2023,Street Lighting,Street Lighting reported in Residential Area,Industrial Area,Resolved,Low,Water Management,24,34.0397523,-118.2748898
+CMP-1029,8/24/2024,Street Lighting,Street Lighting reported in Downtown,Residential Area,Resolved,Medium,Sanitation,25,34.039283,-118.27601
+CMP-1030,6/11/2024,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Pending,Medium,Traffic,,34.0388137,-118.2771302
+CMP-1031,9/23/2023,Garbage Collection,Garbage Collection reported in Parks,Residential Area,In Progress,High,Parks & Recreation,,34.0383444,-118.2782504
+CMP-1032,9/3/2023,Potholes,Potholes reported in Downtown,Industrial Area,Pending,Low,Public Works,,34.0378751,-118.2793706
+CMP-1033,10/7/2023,Garbage Collection,Garbage Collection reported in City Center,City Center,Resolved,Low,Public Works,23,34.0374058,-118.2804908
+CMP-1034,7/26/2024,Garbage Collection,Garbage Collection reported in Parks,Downtown,Resolved,High,Traffic,27,34.0369365,-118.281611
+CMP-1035,10/17/2023,Illegal Parking,Illegal Parking reported in Downtown,City Center,In Progress,Critical,Public Works,,34.0364672,-118.2827312
+CMP-1036,12/3/2024,Noise Complaint,Noise Complaint reported in Parks,Industrial Area,Resolved,Critical,Traffic,25,34.0359979,-118.2838514
+CMP-1037,6/29/2023,Noise Complaint,Noise Complaint reported in Residential Area,Residential Area,Resolved,High,Public Works,4,34.0355286,-118.2849716
+CMP-1038,1/16/2024,Garbage Collection,Garbage Collection reported in Residential Area,City Center,Pending,Critical,Sanitation,,34.0350593,-118.2860918
+CMP-1039,2/6/2023,Illegal Parking,Illegal Parking reported in Suburbs,Industrial Area,Resolved,High,Water Management,25,34.03459,-118.287212
+CMP-1040,5/2/2023,Illegal Parking,Illegal Parking reported in Residential Area,Residential Area,Resolved,High,Traffic,29,34.0341207,-118.2883322
+CMP-1041,9/9/2024,Illegal Parking,Illegal Parking reported in City Center,Residential Area,Escalated,Medium,Public Works,,34.0336514,-118.2894524
+CMP-1042,5/31/2023,Water Leakage,Water Leakage reported in Industrial Area,Industrial Area,In Progress,Critical,Water Management,,34.0331821,-118.2905726
+CMP-1043,8/4/2024,Street Lighting,Street Lighting reported in Industrial Area,Parks,Resolved,Low,Parks & Recreation,14,34.0327128,-118.2916928
+CMP-1044,1/26/2024,Potholes,Potholes reported in Parks,Industrial Area,Resolved,Critical,Parks & Recreation,14,34.0322435,-118.292813
+CMP-1045,10/2/2024,Street Lighting,Street Lighting reported in Downtown,Parks,Resolved,Medium,Sanitation,12,34.0317742,-118.2939332
+CMP-1046,3/6/2023,Noise Complaint,Noise Complaint reported in Industrial Area,City Center,Pending,Low,Parks & Recreation,,34.0313049,-118.2950534
+CMP-1047,9/16/2024,Noise Complaint,Noise Complaint reported in Suburbs,Residential Area,Pending,Critical,Parks & Recreation,,34.0308356,-118.2961736
+CMP-1048,4/4/2023,Garbage Collection,Garbage Collection reported in Parks,Industrial Area,In Progress,Low,Traffic,,34.0303663,-118.2972938
+CMP-1049,4/1/2023,Potholes,Potholes reported in Downtown,Downtown,Resolved,Critical,Traffic,14,34.029897,-118.298414
+CMP-1050,5/21/2023,Noise Complaint,Noise Complaint reported in City Center,City Center,Pending,High,Sanitation,,34.0294277,-118.2995342
+CMP-1051,5/15/2024,Noise Complaint,Noise Complaint reported in City Center,Industrial Area,Pending,High,Parks & Recreation,,34.0289584,-118.3006544
+CMP-1052,6/16/2023,Noise Complaint,Noise Complaint reported in Suburbs,Parks,Resolved,High,Public Works,30,34.0284891,-118.3017746
+CMP-1053,6/12/2024,Garbage Collection,Garbage Collection reported in Suburbs,Downtown,Resolved,Critical,Sanitation,7,34.0280198,-118.3028948
+CMP-1054,1/2/2023,Illegal Parking,Illegal Parking reported in Industrial Area,Industrial Area,Resolved,Low,Water Management,30,34.0275505,-118.304015
+CMP-1055,11/28/2023,Noise Complaint,Noise Complaint reported in Suburbs,Parks,Resolved,High,Water Management,21,34.0270812,-118.3051352
+CMP-1056,3/3/2023,Street Lighting,Street Lighting reported in Parks,Suburbs,In Progress,Low,Traffic,,34.0266119,-118.3062554
+CMP-1057,5/27/2024,Potholes,Potholes reported in Industrial Area,Suburbs,Resolved,Low,Sanitation,28,34.0261426,-118.3073756
+CMP-1058,9/25/2024,Street Lighting,Street Lighting reported in Suburbs,City Center,Resolved,High,Parks & Recreation,14,34.0256733,-118.3084958
+CMP-1059,10/11/2023,Illegal Parking,Illegal Parking reported in Downtown,Residential Area,In Progress,Medium,Public Works,,34.025204,-118.309616
+CMP-1060,9/27/2023,Noise Complaint,Noise Complaint reported in Parks,Industrial Area,Resolved,Medium,Public Works,4,34.0247347,-118.3107362
+CMP-1061,12/12/2024,Potholes,Potholes reported in Parks,Suburbs,Resolved,Critical,Public Works,5,34.0242654,-118.3118564
+CMP-1062,6/30/2024,Street Lighting,Street Lighting reported in Downtown,Parks,Resolved,Low,Sanitation,25,34.0237961,-118.3129766
+CMP-1063,9/29/2023,Noise Complaint,Noise Complaint reported in Industrial Area,Downtown,Escalated,Low,Parks & Recreation,,34.0233268,-118.3140968
+CMP-1064,11/5/2023,Street Lighting,Street Lighting reported in Parks,Residential Area,Resolved,Medium,Sanitation,4,34.0228575,-118.315217
+CMP-1065,10/5/2024,Noise Complaint,Noise Complaint reported in City Center,Residential Area,Resolved,Low,Traffic,27,34.0223882,-118.3163372
+CMP-1066,10/17/2023,Street Lighting,Street Lighting reported in Parks,Residential Area,Pending,Medium,Traffic,,34.0219189,-118.3174574
+CMP-1067,3/6/2024,Noise Complaint,Noise Complaint reported in Downtown,Parks,Resolved,Medium,Water Management,15,34.0214496,-118.3185776
+CMP-1068,1/7/2023,Illegal Parking,Illegal Parking reported in City Center,Parks,Resolved,Critical,Water Management,14,34.0209803,-118.3196978
+CMP-1069,10/27/2024,Street Lighting,Street Lighting reported in Parks,Downtown,Pending,High,Parks & Recreation,,34.020511,-118.320818
+CMP-1070,4/3/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Downtown,Resolved,High,Traffic,19,34.0200417,-118.3219382
+CMP-1071,6/27/2024,Water Leakage,Water Leakage reported in Parks,Parks,Pending,Low,Parks & Recreation,,34.0195724,-118.3230584
+CMP-1072,3/2/2024,Noise Complaint,Noise Complaint reported in Downtown,Industrial Area,Resolved,Critical,Traffic,21,34.0191031,-118.3241786
+CMP-1073,3/30/2024,Water Leakage,Water Leakage reported in City Center,Residential Area,Pending,Low,Sanitation,,34.0186338,-118.3252988
+CMP-1074,3/2/2024,Potholes,Potholes reported in Downtown,Industrial Area,Pending,Medium,Public Works,,34.0181645,-118.326419
+CMP-1075,6/22/2023,Potholes,Potholes reported in Residential Area,City Center,In Progress,Medium,Sanitation,,34.0176952,-118.3275392
+CMP-1076,5/12/2023,Water Leakage,Water Leakage reported in Downtown,Parks,Resolved,Low,Parks & Recreation,14,34.0172259,-118.3286594
+CMP-1077,9/28/2024,Illegal Parking,Illegal Parking reported in Parks,City Center,Resolved,Medium,Traffic,30,34.0167566,-118.3297796
+CMP-1078,5/28/2023,Water Leakage,Water Leakage reported in Industrial Area,Downtown,In Progress,Low,Water Management,,34.0162873,-118.3308998
+CMP-1079,5/15/2023,Garbage Collection,Garbage Collection reported in City Center,Suburbs,Resolved,Low,Parks & Recreation,17,34.015818,-118.33202
+CMP-1080,3/6/2023,Street Lighting,Street Lighting reported in Residential Area,City Center,In Progress,Medium,Sanitation,,34.0153487,-118.3331402
+CMP-1081,8/22/2023,Noise Complaint,Noise Complaint reported in City Center,Downtown,Escalated,High,Water Management,,34.0148794,-118.3342604
+CMP-1082,4/18/2024,Garbage Collection,Garbage Collection reported in Downtown,Downtown,In Progress,Low,Sanitation,,34.0144101,-118.3353806
+CMP-1083,6/13/2023,Potholes,Potholes reported in Suburbs,City Center,Resolved,High,Public Works,6,34.0139408,-118.3365008
+CMP-1084,2/15/2024,Potholes,Potholes reported in City Center,Downtown,Pending,Critical,Traffic,,34.0134715,-118.337621
+CMP-1085,5/22/2024,Street Lighting,Street Lighting reported in Suburbs,City Center,In Progress,High,Water Management,,34.0130022,-118.3387412
+CMP-1086,4/25/2023,Water Leakage,Water Leakage reported in Residential Area,Suburbs,Resolved,Low,Public Works,3,34.0125329,-118.3398614
+CMP-1087,9/16/2024,Street Lighting,Street Lighting reported in Downtown,City Center,Escalated,Low,Parks & Recreation,,34.0120636,-118.3409816
+CMP-1088,5/30/2024,Potholes,Potholes reported in Downtown,Downtown,Escalated,Low,Public Works,,34.0115943,-118.3421018
+CMP-1089,1/21/2023,Noise Complaint,Noise Complaint reported in Industrial Area,Suburbs,Pending,Medium,Parks & Recreation,,34.011125,-118.343222
+CMP-1090,1/15/2024,Noise Complaint,Noise Complaint reported in Residential Area,Residential Area,Pending,Low,Parks & Recreation,,34.0106557,-118.3443422
+CMP-1091,11/11/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Industrial Area,Resolved,Critical,Public Works,30,34.0101864,-118.3454624
+CMP-1092,11/4/2024,Garbage Collection,Garbage Collection reported in Residential Area,Downtown,In Progress,Medium,Parks & Recreation,,34.0097171,-118.3465826
+CMP-1093,2/26/2024,Illegal Parking,Illegal Parking reported in Parks,Parks,Resolved,Medium,Parks & Recreation,6,34.0092478,-118.3477028
+CMP-1094,3/19/2024,Garbage Collection,Garbage Collection reported in Industrial Area,Downtown,Resolved,Low,Parks & Recreation,10,34.0087785,-118.348823
+CMP-1095,3/5/2024,Noise Complaint,Noise Complaint reported in Parks,Suburbs,Resolved,Critical,Parks & Recreation,23,34.0083092,-118.3499432
+CMP-1096,7/9/2023,Illegal Parking,Illegal Parking reported in Parks,Suburbs,Resolved,Low,Public Works,23,34.0078399,-118.3510634
+CMP-1097,5/25/2023,Garbage Collection,Garbage Collection reported in Downtown,Parks,Resolved,High,Traffic,26,34.0073706,-118.3521836
+CMP-1098,7/7/2023,Noise Complaint,Noise Complaint reported in Industrial Area,Industrial Area,Escalated,High,Parks & Recreation,,34.0069013,-118.3533038
+CMP-1099,7/23/2024,Water Leakage,Water Leakage reported in Parks,Downtown,Escalated,Critical,Parks & Recreation,,34.006432,-118.354424
+CMP-1100,6/3/2024,Noise Complaint,Noise Complaint reported in Parks,Suburbs,Resolved,High,Water Management,15,34.0059627,-118.3555442
+CMP-1101,8/19/2024,Garbage Collection,Garbage Collection reported in Downtown,Downtown,Escalated,Medium,Traffic,,34.0054934,-118.3566644
+CMP-1102,7/20/2024,Illegal Parking,Illegal Parking reported in Parks,Suburbs,Pending,Low,Water Management,,34.0050241,-118.3577846
+CMP-1103,2/14/2024,Water Leakage,Water Leakage reported in Parks,Downtown,In Progress,High,Water Management,,34.0045548,-118.3589048
+CMP-1104,10/1/2023,Garbage Collection,Garbage Collection reported in Industrial Area,Suburbs,Pending,Low,Sanitation,,34.0040855,-118.360025
+CMP-1105,2/26/2023,Street Lighting,Street Lighting reported in Suburbs,Residential Area,Resolved,High,Traffic,26,34.0036162,-118.3611452
+CMP-1106,3/27/2024,Water Leakage,Water Leakage reported in Parks,Downtown,Resolved,High,Public Works,11,34.0031469,-118.3622654
+CMP-1107,12/25/2024,Street Lighting,Street Lighting reported in Industrial Area,Downtown,Resolved,High,Water Management,4,34.0026776,-118.3633856
+CMP-1108,6/14/2024,Garbage Collection,Garbage Collection reported in Parks,Downtown,Escalated,High,Sanitation,,34.0022083,-118.3645058
+CMP-1109,2/18/2023,Illegal Parking,Illegal Parking reported in Suburbs,Residential Area,Pending,Low,Public Works,,34.001739,-118.365626
+CMP-1110,3/7/2024,Potholes,Potholes reported in Suburbs,Suburbs,Resolved,Low,Parks & Recreation,15,34.0012697,-118.3667462
+CMP-1111,8/6/2024,Garbage Collection,Garbage Collection reported in Industrial Area,Downtown,In Progress,High,Parks & Recreation,,34.0008004,-118.3678664
+CMP-1112,2/18/2024,Street Lighting,Street Lighting reported in Industrial Area,City Center,Resolved,Low,Traffic,14,34.0003311,-118.3689866
+CMP-1113,10/4/2024,Illegal Parking,Illegal Parking reported in Downtown,Suburbs,Pending,Low,Parks & Recreation,,33.9998618,-118.3701068
+CMP-1114,3/25/2024,Illegal Parking,Illegal Parking reported in City Center,City Center,In Progress,Medium,Public Works,,33.9993925,-118.371227
+CMP-1115,3/1/2023,Illegal Parking,Illegal Parking reported in Industrial Area,Industrial Area,In Progress,Low,Traffic,,33.9989232,-118.3723472
+CMP-1116,7/12/2023,Noise Complaint,Noise Complaint reported in Residential Area,Suburbs,In Progress,High,Traffic,,33.9984539,-118.3734674
+CMP-1117,10/13/2023,Street Lighting,Street Lighting reported in Industrial Area,Residential Area,Resolved,Medium,Water Management,22,33.9979846,-118.3745876
+CMP-1118,12/12/2024,Potholes,Potholes reported in Suburbs,Industrial Area,Escalated,Critical,Parks & Recreation,,33.9975153,-118.3757078
+CMP-1119,3/29/2023,Potholes,Potholes reported in City Center,Residential Area,Resolved,Medium,Water Management,12,33.997046,-118.376828
+CMP-1120,10/15/2024,Street Lighting,Street Lighting reported in Parks,Residential Area,In Progress,Low,Public Works,,33.9965767,-118.3779482
+CMP-1121,6/29/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Suburbs,Resolved,High,Sanitation,24,33.9961074,-118.3790684
+CMP-1122,1/8/2024,Potholes,Potholes reported in Residential Area,Downtown,Pending,Critical,Public Works,,33.9956381,-118.3801886
+CMP-1123,10/30/2023,Street Lighting,Street Lighting reported in City Center,Residential Area,Resolved,Critical,Public Works,23,33.9951688,-118.3813088
+CMP-1124,9/6/2023,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Resolved,High,Traffic,22,33.9946995,-118.382429
+CMP-1125,11/5/2024,Potholes,Potholes reported in Industrial Area,Industrial Area,Pending,High,Traffic,,33.9942302,-118.3835492
+CMP-1126,4/22/2024,Street Lighting,Street Lighting reported in Parks,Downtown,In Progress,Medium,Sanitation,,33.9937609,-118.3846694
+CMP-1127,4/22/2023,Garbage Collection,Garbage Collection reported in Parks,City Center,Resolved,Medium,Traffic,15,33.9932916,-118.3857896
+CMP-1128,8/29/2024,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Resolved,Medium,Sanitation,20,33.9928223,-118.3869098
+CMP-1129,9/4/2024,Garbage Collection,Garbage Collection reported in Industrial Area,City Center,Resolved,Medium,Water Management,3,33.992353,-118.38803
+CMP-1130,12/30/2023,Water Leakage,Water Leakage reported in Residential Area,Residential Area,In Progress,High,Sanitation,,33.9918837,-118.3891502
+CMP-1131,9/5/2023,Garbage Collection,Garbage Collection reported in Residential Area,Industrial Area,Resolved,Critical,Sanitation,19,33.9914144,-118.3902704
+CMP-1132,8/16/2024,Potholes,Potholes reported in City Center,Downtown,Escalated,Critical,Sanitation,,33.9909451,-118.3913906
+CMP-1133,2/27/2023,Noise Complaint,Noise Complaint reported in Parks,Downtown,Resolved,High,Public Works,30,33.9904758,-118.3925108
+CMP-1134,6/10/2024,Illegal Parking,Illegal Parking reported in Parks,Downtown,Resolved,Critical,Water Management,12,33.9900065,-118.393631
+CMP-1135,9/22/2023,Garbage Collection,Garbage Collection reported in Residential Area,Residential Area,Escalated,High,Sanitation,,33.9895372,-118.3947512
+CMP-1136,2/13/2023,Street Lighting,Street Lighting reported in Suburbs,Downtown,Resolved,Low,Water Management,11,33.9890679,-118.3958714
+CMP-1137,1/2/2024,Garbage Collection,Garbage Collection reported in Suburbs,City Center,In Progress,Medium,Parks & Recreation,,33.9885986,-118.3969916
+CMP-1138,7/3/2024,Street Lighting,Street Lighting reported in Downtown,Suburbs,Resolved,High,Sanitation,5,33.9881293,-118.3981118
+CMP-1139,8/6/2024,Potholes,Potholes reported in Residential Area,Residential Area,Pending,Low,Parks & Recreation,,33.98766,-118.399232
+CMP-1140,3/23/2024,Noise Complaint,Noise Complaint reported in Residential Area,Downtown,Resolved,Low,Parks & Recreation,8,33.9871907,-118.4003522
+CMP-1141,2/5/2024,Water Leakage,Water Leakage reported in Suburbs,Downtown,In Progress,Low,Parks & Recreation,,33.9867214,-118.4014724
+CMP-1142,9/19/2024,Potholes,Potholes reported in Downtown,Industrial Area,Resolved,Medium,Water Management,10,33.9862521,-118.4025926
+CMP-1143,8/23/2024,Garbage Collection,Garbage Collection reported in Parks,City Center,Resolved,Medium,Parks & Recreation,29,33.9857828,-118.4037128
+CMP-1144,12/25/2023,Potholes,Potholes reported in Industrial Area,Parks,Escalated,Critical,Water Management,,33.9853135,-118.404833
+CMP-1145,9/20/2023,Street Lighting,Street Lighting reported in Residential Area,Industrial Area,Resolved,High,Water Management,21,33.9848442,-118.4059532
+CMP-1146,2/16/2024,Street Lighting,Street Lighting reported in Downtown,Industrial Area,In Progress,High,Traffic,,33.9843749,-118.4070734
+CMP-1147,9/25/2023,Water Leakage,Water Leakage reported in City Center,Parks,Escalated,Medium,Sanitation,,33.9839056,-118.4081936
+CMP-1148,1/17/2023,Noise Complaint,Noise Complaint reported in Downtown,Parks,Resolved,Low,Water Management,4,33.9834363,-118.4093138
+CMP-1149,3/4/2024,Illegal Parking,Illegal Parking reported in Residential Area,City Center,Pending,Low,Parks & Recreation,,33.982967,-118.410434
+CMP-1150,5/10/2024,Garbage Collection,Garbage Collection reported in City Center,Residential Area,Resolved,High,Public Works,15,33.9824977,-118.4115542
+CMP-1151,12/23/2023,Illegal Parking,Illegal Parking reported in Industrial Area,Suburbs,Escalated,Medium,Parks & Recreation,,33.9820284,-118.4126744
+CMP-1152,12/11/2023,Water Leakage,Water Leakage reported in Parks,Suburbs,Resolved,Medium,Public Works,5,33.9815591,-118.4137946
+CMP-1153,2/17/2023,Potholes,Potholes reported in Residential Area,City Center,In Progress,Critical,Sanitation,,33.9810898,-118.4149148
+CMP-1154,4/12/2023,Potholes,Potholes reported in Suburbs,Downtown,Resolved,Medium,Public Works,26,33.9806205,-118.416035
+CMP-1155,12/14/2023,Illegal Parking,Illegal Parking reported in Downtown,Industrial Area,Resolved,High,Traffic,26,33.9801512,-118.4171552
+CMP-1156,2/13/2023,Potholes,Potholes reported in Parks,Parks,Resolved,Critical,Traffic,13,33.9796819,-118.4182754
+CMP-1157,4/16/2024,Street Lighting,Street Lighting reported in Suburbs,Industrial Area,In Progress,Critical,Parks & Recreation,,33.9792126,-118.4193956
+CMP-1158,10/1/2024,Water Leakage,Water Leakage reported in Downtown,City Center,Resolved,Low,Sanitation,8,33.9787433,-118.4205158
+CMP-1159,3/26/2024,Noise Complaint,Noise Complaint reported in Downtown,City Center,Pending,Low,Parks & Recreation,,33.978274,-118.421636
+CMP-1160,5/1/2023,Noise Complaint,Noise Complaint reported in City Center,Suburbs,Resolved,High,Public Works,23,33.9778047,-118.4227562
+CMP-1161,11/28/2023,Illegal Parking,Illegal Parking reported in City Center,Industrial Area,Resolved,Medium,Public Works,23,33.9773354,-118.4238764
+CMP-1162,2/12/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Suburbs,Pending,Low,Water Management,,33.9768661,-118.4249966
+CMP-1163,3/5/2023,Garbage Collection,Garbage Collection reported in City Center,Downtown,In Progress,Low,Public Works,,33.9763968,-118.4261168
+CMP-1164,7/4/2024,Street Lighting,Street Lighting reported in Suburbs,Suburbs,Resolved,Low,Water Management,2,33.9759275,-118.427237
+CMP-1165,6/23/2024,Illegal Parking,Illegal Parking reported in Parks,Industrial Area,Resolved,Medium,Traffic,14,33.9754582,-118.4283572
+CMP-1166,4/27/2023,Illegal Parking,Illegal Parking reported in Residential Area,Residential Area,In Progress,Critical,Parks & Recreation,,33.9749889,-118.4294774
+CMP-1167,2/15/2024,Noise Complaint,Noise Complaint reported in Suburbs,Industrial Area,Resolved,High,Sanitation,13,33.9745196,-118.4305976
+CMP-1168,8/19/2024,Street Lighting,Street Lighting reported in Suburbs,Parks,Resolved,Low,Parks & Recreation,17,33.9740503,-118.4317178
+CMP-1169,6/21/2024,Garbage Collection,Garbage Collection reported in Residential Area,Downtown,Resolved,Medium,Sanitation,30,33.973581,-118.432838
+CMP-1170,7/23/2023,Illegal Parking,Illegal Parking reported in Residential Area,Industrial Area,In Progress,High,Sanitation,,33.9731117,-118.4339582
+CMP-1171,4/19/2024,Water Leakage,Water Leakage reported in City Center,Suburbs,In Progress,Medium,Sanitation,,33.9726424,-118.4350784
+CMP-1172,1/2/2024,Water Leakage,Water Leakage reported in Residential Area,Parks,Resolved,Low,Water Management,27,33.9721731,-118.4361986
+CMP-1173,1/25/2024,Water Leakage,Water Leakage reported in Suburbs,City Center,Pending,Low,Public Works,,33.9717038,-118.4373188
+CMP-1174,3/27/2023,Street Lighting,Street Lighting reported in Downtown,Parks,Resolved,Critical,Sanitation,30,33.9712345,-118.438439
+CMP-1175,6/18/2023,Garbage Collection,Garbage Collection reported in Parks,Suburbs,Resolved,Low,Traffic,8,33.9707652,-118.4395592
+CMP-1176,7/13/2024,Illegal Parking,Illegal Parking reported in Industrial Area,City Center,In Progress,Medium,Parks & Recreation,,33.9702959,-118.4406794
+CMP-1177,12/28/2023,Illegal Parking,Illegal Parking reported in City Center,Suburbs,In Progress,Critical,Sanitation,,33.9698266,-118.4417996
+CMP-1178,8/30/2024,Street Lighting,Street Lighting reported in Parks,Suburbs,Pending,Medium,Traffic,,33.9693573,-118.4429198
+CMP-1179,3/15/2024,Noise Complaint,Noise Complaint reported in Industrial Area,City Center,Resolved,Medium,Traffic,12,33.968888,-118.44404
+CMP-1180,4/11/2024,Illegal Parking,Illegal Parking reported in Residential Area,Industrial Area,Escalated,Medium,Water Management,,33.9684187,-118.4451602
+CMP-1181,4/3/2024,Water Leakage,Water Leakage reported in Industrial Area,Parks,In Progress,Low,Water Management,,33.9679494,-118.4462804
+CMP-1182,10/5/2024,Noise Complaint,Noise Complaint reported in City Center,Industrial Area,Resolved,High,Traffic,13,33.9674801,-118.4474006
+CMP-1183,7/30/2023,Noise Complaint,Noise Complaint reported in Residential Area,Downtown,In Progress,High,Parks & Recreation,,33.9670108,-118.4485208
+CMP-1184,8/17/2024,Water Leakage,Water Leakage reported in Industrial Area,Downtown,In Progress,Low,Sanitation,,33.9665415,-118.449641
+CMP-1185,9/25/2023,Potholes,Potholes reported in Residential Area,Parks,In Progress,Low,Traffic,,33.9660722,-118.4507612
+CMP-1186,3/26/2023,Noise Complaint,Noise Complaint reported in Parks,Suburbs,Resolved,Medium,Water Management,15,33.9656029,-118.4518814
+CMP-1187,6/23/2024,Street Lighting,Street Lighting reported in Suburbs,Industrial Area,Resolved,Medium,Public Works,24,33.9651336,-118.4530016
+CMP-1188,11/7/2024,Illegal Parking,Illegal Parking reported in City Center,Suburbs,Pending,Low,Traffic,,33.9646643,-118.4541218
+CMP-1189,12/23/2023,Garbage Collection,Garbage Collection reported in Industrial Area,Residential Area,Resolved,Low,Traffic,18,33.964195,-118.455242
+CMP-1190,6/1/2023,Illegal Parking,Illegal Parking reported in Suburbs,Industrial Area,In Progress,Low,Sanitation,,33.9637257,-118.4563622
+CMP-1191,10/1/2024,Noise Complaint,Noise Complaint reported in Parks,Industrial Area,In Progress,Low,Public Works,,33.9632564,-118.4574824
+CMP-1192,3/17/2023,Noise Complaint,Noise Complaint reported in Downtown,Industrial Area,In Progress,Critical,Parks & Recreation,,33.9627871,-118.4586026
+CMP-1193,2/6/2024,Potholes,Potholes reported in Suburbs,Downtown,Resolved,Critical,Public Works,12,33.9623178,-118.4597228
+CMP-1194,1/28/2023,Garbage Collection,Garbage Collection reported in Suburbs,Parks,Resolved,Critical,Public Works,20,33.9618485,-118.460843
+CMP-1195,3/12/2023,Street Lighting,Street Lighting reported in City Center,Parks,In Progress,Low,Public Works,,33.9613792,-118.4619632
+CMP-1196,12/24/2024,Illegal Parking,Illegal Parking reported in Downtown,Industrial Area,In Progress,Low,Traffic,,33.9609099,-118.4630834
+CMP-1197,9/18/2024,Garbage Collection,Garbage Collection reported in Downtown,Residential Area,In Progress,Low,Sanitation,,33.9604406,-118.4642036
+CMP-1198,8/18/2024,Illegal Parking,Illegal Parking reported in Industrial Area,City Center,Escalated,Medium,Water Management,,33.9599713,-118.4653238
+CMP-1199,4/3/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Industrial Area,Pending,Low,Parks & Recreation,,33.959502,-118.466444
+CMP-1200,2/15/2023,Garbage Collection,Garbage Collection reported in Industrial Area,Residential Area,Pending,Low,Traffic,,33.9590327,-118.4675642
+CMP-1201,2/13/2024,Illegal Parking,Illegal Parking reported in Suburbs,Downtown,Pending,Low,Parks & Recreation,,33.9585634,-118.4686844
+CMP-1202,9/8/2024,Street Lighting,Street Lighting reported in Downtown,Industrial Area,Escalated,Low,Water Management,,33.9580941,-118.4698046
+CMP-1203,9/22/2024,Illegal Parking,Illegal Parking reported in Suburbs,Downtown,Resolved,Medium,Water Management,20,33.9576248,-118.4709248
+CMP-1204,8/3/2024,Illegal Parking,Illegal Parking reported in Downtown,Residential Area,Pending,Medium,Parks & Recreation,,33.9571555,-118.472045
+CMP-1205,4/2/2024,Potholes,Potholes reported in Suburbs,Parks,In Progress,High,Sanitation,,33.9566862,-118.4731652
+CMP-1206,1/2/2024,Garbage Collection,Garbage Collection reported in Industrial Area,Residential Area,Resolved,Critical,Traffic,6,33.9562169,-118.4742854
+CMP-1207,5/22/2023,Noise Complaint,Noise Complaint reported in Parks,City Center,Resolved,High,Water Management,3,33.9557476,-118.4754056
+CMP-1208,9/22/2024,Potholes,Potholes reported in Industrial Area,Parks,Pending,Critical,Sanitation,,33.9552783,-118.4765258
+CMP-1209,10/9/2024,Water Leakage,Water Leakage reported in Industrial Area,Downtown,Resolved,High,Public Works,22,33.954809,-118.477646
+CMP-1210,10/26/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Industrial Area,Resolved,Low,Water Management,24,33.9543397,-118.4787662
+CMP-1211,2/11/2023,Noise Complaint,Noise Complaint reported in City Center,Industrial Area,Pending,Medium,Public Works,,33.9538704,-118.4798864
+CMP-1212,6/30/2023,Garbage Collection,Garbage Collection reported in Downtown,Downtown,Resolved,Medium,Parks & Recreation,14,33.9534011,-118.4810066
+CMP-1213,10/28/2024,Garbage Collection,Garbage Collection reported in Residential Area,Residential Area,Pending,Medium,Public Works,,33.9529318,-118.4821268
+CMP-1214,3/17/2024,Water Leakage,Water Leakage reported in Parks,Parks,Resolved,High,Water Management,11,33.9524625,-118.483247
+CMP-1215,5/16/2023,Garbage Collection,Garbage Collection reported in Suburbs,Suburbs,Escalated,Medium,Parks & Recreation,,33.9519932,-118.4843672
+CMP-1216,10/12/2023,Noise Complaint,Noise Complaint reported in City Center,Suburbs,Resolved,Medium,Public Works,14,33.9515239,-118.4854874
+CMP-1217,4/16/2023,Illegal Parking,Illegal Parking reported in City Center,Downtown,Escalated,Critical,Water Management,,33.9510546,-118.4866076
+CMP-1218,3/11/2024,Potholes,Potholes reported in Industrial Area,Downtown,Pending,Low,Water Management,,33.9505853,-118.4877278
+CMP-1219,2/16/2023,Water Leakage,Water Leakage reported in Residential Area,Parks,Resolved,High,Water Management,12,33.950116,-118.488848
+CMP-1220,9/8/2023,Noise Complaint,Noise Complaint reported in Downtown,City Center,Resolved,Medium,Sanitation,13,33.9496467,-118.4899682
+CMP-1221,7/21/2024,Street Lighting,Street Lighting reported in Parks,Residential Area,Resolved,Medium,Public Works,11,33.9491774,-118.4910884
+CMP-1222,2/11/2023,Garbage Collection,Garbage Collection reported in City Center,Residential Area,Resolved,High,Sanitation,22,33.9487081,-118.4922086
+CMP-1223,6/19/2023,Water Leakage,Water Leakage reported in Residential Area,Residential Area,Resolved,High,Public Works,24,33.9482388,-118.4933288
+CMP-1224,12/17/2024,Illegal Parking,Illegal Parking reported in Suburbs,Suburbs,In Progress,Medium,Water Management,,33.9477695,-118.494449
+CMP-1225,6/10/2024,Water Leakage,Water Leakage reported in Industrial Area,Residential Area,Resolved,Low,Traffic,1,33.9473002,-118.4955692
+CMP-1226,3/3/2023,Water Leakage,Water Leakage reported in Industrial Area,Parks,In Progress,Low,Public Works,,33.9468309,-118.4966894
+CMP-1227,6/3/2024,Water Leakage,Water Leakage reported in Downtown,City Center,Escalated,High,Water Management,,33.9463616,-118.4978096
+CMP-1228,10/21/2024,Illegal Parking,Illegal Parking reported in Residential Area,Residential Area,In Progress,High,Sanitation,,33.9458923,-118.4989298
+CMP-1229,4/11/2023,Garbage Collection,Garbage Collection reported in Suburbs,Industrial Area,Resolved,High,Public Works,2,33.945423,-118.50005
+CMP-1230,3/15/2023,Street Lighting,Street Lighting reported in Parks,City Center,Resolved,Medium,Traffic,26,33.9449537,-118.5011702
+CMP-1231,6/3/2024,Noise Complaint,Noise Complaint reported in Parks,City Center,In Progress,High,Public Works,,33.9444844,-118.5022904
+CMP-1232,9/23/2024,Garbage Collection,Garbage Collection reported in Downtown,City Center,In Progress,Low,Sanitation,,33.9440151,-118.5034106
+CMP-1233,9/29/2024,Street Lighting,Street Lighting reported in Downtown,Suburbs,Pending,Low,Parks & Recreation,,33.9435458,-118.5045308
+CMP-1234,5/29/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Suburbs,In Progress,Low,Traffic,,33.9430765,-118.505651
+CMP-1235,5/31/2023,Potholes,Potholes reported in Residential Area,Downtown,In Progress,Critical,Water Management,,33.9426072,-118.5067712
+CMP-1236,7/28/2023,Garbage Collection,Garbage Collection reported in Parks,Residential Area,Resolved,Medium,Public Works,4,33.9421379,-118.5078914
+CMP-1237,2/23/2024,Street Lighting,Street Lighting reported in Parks,Suburbs,Resolved,Medium,Traffic,23,33.9416686,-118.5090116
+CMP-1238,2/22/2024,Noise Complaint,Noise Complaint reported in Residential Area,Downtown,Resolved,Low,Public Works,17,33.9411993,-118.5101318
+CMP-1239,11/22/2023,Water Leakage,Water Leakage reported in City Center,Suburbs,Resolved,Low,Sanitation,5,33.94073,-118.511252
+CMP-1240,8/19/2023,Water Leakage,Water Leakage reported in City Center,City Center,In Progress,Low,Water Management,,33.9402607,-118.5123722
+CMP-1241,4/18/2024,Street Lighting,Street Lighting reported in Industrial Area,Residential Area,Resolved,High,Traffic,9,33.9397914,-118.5134924
+CMP-1242,4/8/2023,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Resolved,Low,Parks & Recreation,22,33.9393221,-118.5146126
+CMP-1243,8/31/2023,Illegal Parking,Illegal Parking reported in City Center,Residential Area,In Progress,Low,Parks & Recreation,,33.9388528,-118.5157328
+CMP-1244,5/18/2023,Noise Complaint,Noise Complaint reported in Parks,Suburbs,In Progress,High,Public Works,,33.9383835,-118.516853
+CMP-1245,5/23/2023,Water Leakage,Water Leakage reported in Suburbs,Suburbs,Resolved,Critical,Sanitation,8,33.9379142,-118.5179732
+CMP-1246,5/8/2023,Illegal Parking,Illegal Parking reported in City Center,Residential Area,Pending,Medium,Public Works,,33.9374449,-118.5190934
+CMP-1247,9/13/2023,Garbage Collection,Garbage Collection reported in City Center,City Center,Resolved,Medium,Public Works,26,33.9369756,-118.5202136
+CMP-1248,2/27/2024,Garbage Collection,Garbage Collection reported in Residential Area,Suburbs,Resolved,Low,Parks & Recreation,26,33.9365063,-118.5213338
+CMP-1249,6/20/2023,Noise Complaint,Noise Complaint reported in Suburbs,Residential Area,Resolved,High,Parks & Recreation,14,33.936037,-118.522454
+CMP-1250,10/27/2024,Street Lighting,Street Lighting reported in Downtown,Suburbs,Escalated,Low,Traffic,,33.9355677,-118.5235742
+CMP-1251,8/5/2024,Noise Complaint,Noise Complaint reported in Residential Area,Suburbs,In Progress,High,Water Management,,33.9350984,-118.5246944
+CMP-1252,1/12/2023,Potholes,Potholes reported in Industrial Area,Suburbs,Resolved,Critical,Public Works,2,33.9346291,-118.5258146
+CMP-1253,6/16/2023,Water Leakage,Water Leakage reported in Industrial Area,Downtown,Pending,Low,Parks & Recreation,,33.9341598,-118.5269348
+CMP-1254,2/4/2023,Street Lighting,Street Lighting reported in Suburbs,Suburbs,In Progress,Low,Parks & Recreation,,33.9336905,-118.528055
+CMP-1255,7/15/2024,Noise Complaint,Noise Complaint reported in Suburbs,Downtown,Pending,High,Water Management,,33.9332212,-118.5291752
+CMP-1256,7/11/2024,Garbage Collection,Garbage Collection reported in Parks,Parks,Resolved,Medium,Sanitation,5,33.9327519,-118.5302954
+CMP-1257,1/10/2023,Illegal Parking,Illegal Parking reported in Industrial Area,Downtown,Pending,Low,Traffic,,33.9322826,-118.5314156
+CMP-1258,12/18/2023,Potholes,Potholes reported in Downtown,Industrial Area,Escalated,Critical,Sanitation,,33.9318133,-118.5325358
+CMP-1259,6/11/2024,Street Lighting,Street Lighting reported in Residential Area,Suburbs,Resolved,High,Traffic,12,33.931344,-118.533656
+CMP-1260,5/27/2024,Water Leakage,Water Leakage reported in Industrial Area,Suburbs,Resolved,High,Water Management,15,33.9308747,-118.5347762
+CMP-1261,6/24/2023,Noise Complaint,Noise Complaint reported in Suburbs,Parks,Resolved,High,Parks & Recreation,10,33.9304054,-118.5358964
+CMP-1262,9/29/2024,Potholes,Potholes reported in Residential Area,Downtown,Resolved,Low,Traffic,2,33.9299361,-118.5370166
+CMP-1263,3/19/2024,Potholes,Potholes reported in Parks,Suburbs,Resolved,Critical,Traffic,23,33.9294668,-118.5381368
+CMP-1264,3/17/2023,Noise Complaint,Noise Complaint reported in Downtown,Parks,In Progress,Low,Sanitation,,33.9289975,-118.539257
+CMP-1265,4/28/2023,Noise Complaint,Noise Complaint reported in Residential Area,Residential Area,Resolved,Low,Water Management,5,33.9285282,-118.5403772
+CMP-1266,10/18/2023,Noise Complaint,Noise Complaint reported in Downtown,Residential Area,Pending,Medium,Parks & Recreation,,33.9280589,-118.5414974
+CMP-1267,4/19/2024,Noise Complaint,Noise Complaint reported in Residential Area,Industrial Area,Pending,Low,Public Works,,33.9275896,-118.5426176
+CMP-1268,3/28/2024,Street Lighting,Street Lighting reported in Downtown,Industrial Area,In Progress,Medium,Water Management,,33.9271203,-118.5437378
+CMP-1269,4/22/2023,Water Leakage,Water Leakage reported in Suburbs,Parks,Resolved,Low,Traffic,30,33.926651,-118.544858
+CMP-1270,4/1/2023,Potholes,Potholes reported in Suburbs,Downtown,Resolved,Medium,Traffic,29,33.9261817,-118.5459782
+CMP-1271,8/19/2024,Potholes,Potholes reported in City Center,Residential Area,Resolved,Low,Traffic,4,33.9257124,-118.5470984
+CMP-1272,2/28/2024,Potholes,Potholes reported in Downtown,Residential Area,In Progress,Critical,Water Management,,33.9252431,-118.5482186
+CMP-1273,7/24/2024,Potholes,Potholes reported in City Center,Residential Area,Pending,Medium,Public Works,,33.9247738,-118.5493388
+CMP-1274,6/24/2023,Garbage Collection,Garbage Collection reported in Downtown,Downtown,Resolved,Medium,Sanitation,27,33.9243045,-118.550459
+CMP-1275,4/23/2024,Noise Complaint,Noise Complaint reported in Suburbs,Industrial Area,Pending,Critical,Traffic,,33.9238352,-118.5515792
+CMP-1276,5/13/2024,Potholes,Potholes reported in City Center,Industrial Area,Resolved,Medium,Public Works,26,33.9233659,-118.5526994
+CMP-1277,9/2/2024,Water Leakage,Water Leakage reported in Industrial Area,Industrial Area,Resolved,Low,Water Management,18,33.9228966,-118.5538196
+CMP-1278,3/24/2024,Noise Complaint,Noise Complaint reported in Suburbs,Residential Area,Escalated,Medium,Traffic,,33.9224273,-118.5549398
+CMP-1279,9/27/2023,Water Leakage,Water Leakage reported in Suburbs,Industrial Area,Pending,Low,Parks & Recreation,,33.921958,-118.55606
+CMP-1280,9/8/2024,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Pending,Low,Traffic,,33.9214887,-118.5571802
+CMP-1281,1/19/2024,Street Lighting,Street Lighting reported in Suburbs,Downtown,Resolved,High,Water Management,21,33.9210194,-118.5583004
+CMP-1282,1/28/2023,Street Lighting,Street Lighting reported in City Center,Industrial Area,Escalated,Low,Traffic,,33.9205501,-118.5594206
+CMP-1283,10/19/2023,Potholes,Potholes reported in City Center,City Center,Resolved,Medium,Water Management,5,33.9200808,-118.5605408
+CMP-1284,1/29/2024,Illegal Parking,Illegal Parking reported in Residential Area,Residential Area,Resolved,Low,Public Works,24,33.9196115,-118.561661
+CMP-1285,12/5/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Suburbs,Pending,High,Water Management,,33.9191422,-118.5627812
+CMP-1286,8/5/2024,Potholes,Potholes reported in Parks,City Center,Resolved,Low,Parks & Recreation,1,33.9186729,-118.5639014
+CMP-1287,6/22/2023,Street Lighting,Street Lighting reported in City Center,Residential Area,Pending,Low,Water Management,,33.9182036,-118.5650216
+CMP-1288,1/30/2024,Street Lighting,Street Lighting reported in City Center,Parks,Pending,Medium,Water Management,,33.9177343,-118.5661418
+CMP-1289,3/22/2023,Illegal Parking,Illegal Parking reported in Residential Area,Industrial Area,Resolved,Low,Water Management,11,33.917265,-118.567262
+CMP-1290,8/12/2023,Illegal Parking,Illegal Parking reported in Residential Area,Industrial Area,Resolved,Medium,Traffic,19,33.9167957,-118.5683822
+CMP-1291,1/27/2023,Street Lighting,Street Lighting reported in Parks,Residential Area,Resolved,High,Traffic,27,33.9163264,-118.5695024
+CMP-1292,9/20/2024,Noise Complaint,Noise Complaint reported in Parks,Industrial Area,Pending,Medium,Water Management,,33.9158571,-118.5706226
+CMP-1293,12/25/2024,Noise Complaint,Noise Complaint reported in Downtown,Suburbs,In Progress,Low,Sanitation,,33.9153878,-118.5717428
+CMP-1294,3/31/2023,Garbage Collection,Garbage Collection reported in Residential Area,City Center,In Progress,Low,Parks & Recreation,,33.9149185,-118.572863
+CMP-1295,1/17/2024,Illegal Parking,Illegal Parking reported in Residential Area,Residential Area,Escalated,Medium,Water Management,,33.9144492,-118.5739832
+CMP-1296,6/9/2024,Noise Complaint,Noise Complaint reported in Downtown,Industrial Area,In Progress,High,Public Works,,33.9139799,-118.5751034
+CMP-1297,10/13/2023,Illegal Parking,Illegal Parking reported in Residential Area,Parks,Resolved,Low,Water Management,13,33.9135106,-118.5762236
+CMP-1298,4/5/2023,Water Leakage,Water Leakage reported in Suburbs,Suburbs,Resolved,High,Traffic,12,33.9130413,-118.5773438
+CMP-1299,2/12/2024,Street Lighting,Street Lighting reported in City Center,Industrial Area,In Progress,Critical,Public Works,,33.912572,-118.578464
+CMP-1300,12/31/2024,Water Leakage,Water Leakage reported in Suburbs,Suburbs,Pending,High,Public Works,,33.9121027,-118.5795842
+CMP-1301,7/17/2023,Noise Complaint,Noise Complaint reported in Industrial Area,City Center,In Progress,High,Traffic,,33.9116334,-118.5807044
+CMP-1302,1/6/2023,Street Lighting,Street Lighting reported in Downtown,Downtown,Pending,Low,Sanitation,,33.9111641,-118.5818246
+CMP-1303,11/23/2023,Potholes,Potholes reported in Residential Area,Residential Area,Resolved,Critical,Parks & Recreation,27,33.9106948,-118.5829448
+CMP-1304,10/15/2024,Noise Complaint,Noise Complaint reported in Industrial Area,City Center,Escalated,Medium,Sanitation,,33.9102255,-118.584065
+CMP-1305,1/11/2023,Street Lighting,Street Lighting reported in Residential Area,Industrial Area,Resolved,High,Traffic,27,33.9097562,-118.5851852
+CMP-1306,9/24/2024,Garbage Collection,Garbage Collection reported in Industrial Area,Industrial Area,Resolved,High,Water Management,28,33.9092869,-118.5863054
+CMP-1307,8/28/2024,Noise Complaint,Noise Complaint reported in Suburbs,Residential Area,In Progress,High,Sanitation,,33.9088176,-118.5874256
+CMP-1308,6/12/2023,Garbage Collection,Garbage Collection reported in Industrial Area,City Center,Resolved,High,Sanitation,2,33.9083483,-118.5885458
+CMP-1309,8/27/2023,Potholes,Potholes reported in Parks,City Center,Resolved,High,Public Works,2,33.907879,-118.589666
+CMP-1310,8/8/2023,Street Lighting,Street Lighting reported in Downtown,Industrial Area,Resolved,Medium,Parks & Recreation,2,33.9074097,-118.5907862
+CMP-1311,9/10/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Downtown,Resolved,Medium,Sanitation,10,33.9069404,-118.5919064
+CMP-1312,3/30/2024,Noise Complaint,Noise Complaint reported in Residential Area,Downtown,Pending,Low,Parks & Recreation,,33.9064711,-118.5930266
+CMP-1313,2/11/2023,Potholes,Potholes reported in Downtown,City Center,Pending,Critical,Parks & Recreation,,33.9060018,-118.5941468
+CMP-1314,5/28/2024,Street Lighting,Street Lighting reported in Suburbs,Parks,Pending,Low,Traffic,,33.9055325,-118.595267
+CMP-1315,11/11/2024,Water Leakage,Water Leakage reported in Industrial Area,Parks,Resolved,High,Traffic,26,33.9050632,-118.5963872
+CMP-1316,7/14/2024,Street Lighting,Street Lighting reported in Industrial Area,City Center,Escalated,Medium,Parks & Recreation,,33.9045939,-118.5975074
+CMP-1317,12/27/2024,Illegal Parking,Illegal Parking reported in Suburbs,City Center,Escalated,High,Sanitation,,33.9041246,-118.5986276
+CMP-1318,11/26/2024,Garbage Collection,Garbage Collection reported in Parks,Industrial Area,Pending,High,Parks & Recreation,,33.9036553,-118.5997478
+CMP-1319,3/23/2023,Potholes,Potholes reported in Industrial Area,City Center,Resolved,Low,Sanitation,28,33.903186,-118.600868
+CMP-1320,12/24/2023,Illegal Parking,Illegal Parking reported in Parks,Downtown,Resolved,High,Parks & Recreation,25,33.9027167,-118.6019882
+CMP-1321,1/29/2024,Potholes,Potholes reported in Residential Area,Industrial Area,Resolved,Critical,Public Works,18,33.9022474,-118.6031084
+CMP-1322,1/12/2023,Potholes,Potholes reported in Residential Area,Suburbs,Resolved,Critical,Sanitation,18,33.9017781,-118.6042286
+CMP-1323,11/23/2024,Street Lighting,Street Lighting reported in Suburbs,Industrial Area,Pending,Medium,Traffic,,33.9013088,-118.6053488
+CMP-1324,11/30/2023,Garbage Collection,Garbage Collection reported in Downtown,Suburbs,Resolved,Low,Parks & Recreation,3,33.9008395,-118.606469
+CMP-1325,7/5/2023,Garbage Collection,Garbage Collection reported in Downtown,City Center,Resolved,Critical,Parks & Recreation,1,33.9003702,-118.6075892
+CMP-1326,1/25/2024,Illegal Parking,Illegal Parking reported in Downtown,City Center,In Progress,Critical,Water Management,,33.8999009,-118.6087094
+CMP-1327,2/19/2023,Potholes,Potholes reported in Residential Area,Industrial Area,Resolved,Critical,Parks & Recreation,6,33.8994316,-118.6098296
+CMP-1328,7/23/2023,Street Lighting,Street Lighting reported in Residential Area,City Center,In Progress,Low,Parks & Recreation,,33.8989623,-118.6109498
+CMP-1329,7/20/2023,Illegal Parking,Illegal Parking reported in Downtown,Suburbs,In Progress,High,Water Management,,33.898493,-118.61207
+CMP-1330,11/28/2024,Street Lighting,Street Lighting reported in Suburbs,Parks,Pending,High,Traffic,,33.8980237,-118.6131902
+CMP-1331,12/27/2023,Street Lighting,Street Lighting reported in Industrial Area,Parks,Resolved,Medium,Traffic,15,33.8975544,-118.6143104
+CMP-1332,1/2/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Industrial Area,Pending,Low,Water Management,,33.8970851,-118.6154306
+CMP-1333,3/31/2023,Potholes,Potholes reported in Residential Area,Suburbs,Resolved,Low,Traffic,28,33.8966158,-118.6165508
+CMP-1334,12/30/2024,Potholes,Potholes reported in City Center,Parks,Resolved,Critical,Water Management,13,33.8961465,-118.617671
+CMP-1335,5/19/2023,Noise Complaint,Noise Complaint reported in Residential Area,City Center,Resolved,High,Traffic,30,33.8956772,-118.6187912
+CMP-1336,9/6/2023,Garbage Collection,Garbage Collection reported in Downtown,City Center,In Progress,High,Public Works,,33.8952079,-118.6199114
+CMP-1337,11/26/2023,Noise Complaint,Noise Complaint reported in Parks,Downtown,Pending,Low,Sanitation,,33.8947386,-118.6210316
+CMP-1338,5/1/2023,Water Leakage,Water Leakage reported in Residential Area,City Center,In Progress,Low,Parks & Recreation,,33.8942693,-118.6221518
+CMP-1339,10/10/2023,Potholes,Potholes reported in Downtown,Residential Area,Pending,Medium,Water Management,,33.8938,-118.623272
+CMP-1340,2/25/2023,Potholes,Potholes reported in Industrial Area,Industrial Area,In Progress,Critical,Public Works,,33.8933307,-118.6243922
+CMP-1341,10/20/2024,Potholes,Potholes reported in Suburbs,Industrial Area,Resolved,Low,Parks & Recreation,7,33.8928614,-118.6255124
+CMP-1342,3/14/2023,Potholes,Potholes reported in Residential Area,Residential Area,Escalated,Low,Sanitation,,33.8923921,-118.6266326
+CMP-1343,10/21/2023,Water Leakage,Water Leakage reported in Suburbs,Downtown,Pending,Medium,Water Management,,33.8919228,-118.6277528
+CMP-1344,7/29/2024,Garbage Collection,Garbage Collection reported in Parks,Residential Area,Pending,Critical,Sanitation,,33.8914535,-118.628873
+CMP-1345,3/6/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Industrial Area,In Progress,Medium,Parks & Recreation,,33.8909842,-118.6299932
+CMP-1346,1/13/2024,Garbage Collection,Garbage Collection reported in Industrial Area,Suburbs,Resolved,Low,Traffic,14,33.8905149,-118.6311134
+CMP-1347,9/21/2023,Illegal Parking,Illegal Parking reported in Suburbs,City Center,Pending,Low,Sanitation,,33.8900456,-118.6322336
+CMP-1348,6/23/2024,Street Lighting,Street Lighting reported in Industrial Area,Residential Area,Pending,Medium,Water Management,,33.8895763,-118.6333538
+CMP-1349,7/1/2024,Garbage Collection,Garbage Collection reported in Industrial Area,City Center,In Progress,High,Traffic,,33.889107,-118.634474
+CMP-1350,5/24/2024,Illegal Parking,Illegal Parking reported in Residential Area,Suburbs,Resolved,Critical,Traffic,17,33.8886377,-118.6355942
+CMP-1351,6/13/2023,Water Leakage,Water Leakage reported in Downtown,Residential Area,Pending,Low,Public Works,,33.8881684,-118.6367144
+CMP-1352,1/2/2023,Potholes,Potholes reported in Parks,Parks,Pending,Critical,Sanitation,,33.8876991,-118.6378346
+CMP-1353,11/28/2023,Illegal Parking,Illegal Parking reported in Suburbs,Suburbs,Resolved,Low,Water Management,3,33.8872298,-118.6389548
+CMP-1354,9/18/2024,Street Lighting,Street Lighting reported in City Center,Industrial Area,Pending,Medium,Public Works,,33.8867605,-118.640075
+CMP-1355,8/29/2023,Illegal Parking,Illegal Parking reported in Downtown,Industrial Area,Resolved,Medium,Water Management,7,33.8862912,-118.6411952
+CMP-1356,11/20/2023,Illegal Parking,Illegal Parking reported in Downtown,Downtown,Resolved,Low,Water Management,25,33.8858219,-118.6423154
+CMP-1357,5/14/2024,Garbage Collection,Garbage Collection reported in Parks,Residential Area,Resolved,Low,Public Works,19,33.8853526,-118.6434356
+CMP-1358,4/17/2023,Garbage Collection,Garbage Collection reported in Parks,Parks,Pending,Critical,Water Management,,33.8848833,-118.6445558
+CMP-1359,12/4/2024,Noise Complaint,Noise Complaint reported in Suburbs,City Center,Resolved,Medium,Traffic,24,33.884414,-118.645676
+CMP-1360,2/7/2024,Noise Complaint,Noise Complaint reported in Parks,Downtown,Resolved,Low,Sanitation,3,33.8839447,-118.6467962
+CMP-1361,1/10/2023,Street Lighting,Street Lighting reported in Industrial Area,Parks,Escalated,Low,Sanitation,,33.8834754,-118.6479164
+CMP-1362,10/27/2024,Potholes,Potholes reported in Industrial Area,Suburbs,Resolved,Medium,Parks & Recreation,28,33.8830061,-118.6490366
+CMP-1363,5/19/2023,Potholes,Potholes reported in Suburbs,Parks,Pending,Low,Parks & Recreation,,33.8825368,-118.6501568
+CMP-1364,1/16/2024,Garbage Collection,Garbage Collection reported in Downtown,Downtown,Resolved,High,Traffic,18,33.8820675,-118.651277
+CMP-1365,4/1/2024,Water Leakage,Water Leakage reported in Suburbs,Industrial Area,Resolved,High,Traffic,30,33.8815982,-118.6523972
+CMP-1366,3/22/2023,Street Lighting,Street Lighting reported in Industrial Area,Industrial Area,In Progress,Low,Parks & Recreation,,33.8811289,-118.6535174
+CMP-1367,5/14/2023,Water Leakage,Water Leakage reported in Parks,Downtown,Resolved,Low,Sanitation,3,33.8806596,-118.6546376
+CMP-1368,4/4/2023,Potholes,Potholes reported in Industrial Area,Industrial Area,Resolved,High,Traffic,18,33.8801903,-118.6557578
+CMP-1369,6/30/2024,Illegal Parking,Illegal Parking reported in Parks,Residential Area,Resolved,Low,Sanitation,8,33.879721,-118.656878
+CMP-1370,11/10/2023,Street Lighting,Street Lighting reported in City Center,Residential Area,Resolved,Medium,Parks & Recreation,13,33.8792517,-118.6579982
+CMP-1371,10/7/2023,Water Leakage,Water Leakage reported in Downtown,Downtown,Resolved,Low,Water Management,7,33.8787824,-118.6591184
+CMP-1372,2/16/2023,Noise Complaint,Noise Complaint reported in City Center,Residential Area,Resolved,Medium,Public Works,17,33.8783131,-118.6602386
+CMP-1373,8/17/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Industrial Area,Pending,High,Parks & Recreation,,33.8778438,-118.6613588
+CMP-1374,8/12/2023,Garbage Collection,Garbage Collection reported in Suburbs,Residential Area,Resolved,Medium,Sanitation,25,33.8773745,-118.662479
+CMP-1375,10/12/2023,Illegal Parking,Illegal Parking reported in Residential Area,Downtown,Pending,High,Parks & Recreation,,33.8769052,-118.6635992
+CMP-1376,1/16/2024,Street Lighting,Street Lighting reported in Industrial Area,Suburbs,In Progress,Low,Sanitation,,33.8764359,-118.6647194
+CMP-1377,5/24/2023,Potholes,Potholes reported in Suburbs,Suburbs,In Progress,Low,Parks & Recreation,,33.8759666,-118.6658396
+CMP-1378,2/22/2024,Garbage Collection,Garbage Collection reported in Residential Area,Downtown,Pending,Low,Sanitation,,33.8754973,-118.6669598
+CMP-1379,5/6/2024,Potholes,Potholes reported in Suburbs,Parks,Resolved,High,Public Works,27,33.875028,-118.66808
+CMP-1380,3/1/2024,Potholes,Potholes reported in Suburbs,Industrial Area,Escalated,Low,Traffic,,33.8745587,-118.6692002
+CMP-1381,8/21/2024,Garbage Collection,Garbage Collection reported in Downtown,Suburbs,Resolved,Low,Water Management,7,33.8740894,-118.6703204
+CMP-1382,4/6/2024,Street Lighting,Street Lighting reported in Suburbs,City Center,Escalated,Medium,Water Management,,33.8736201,-118.6714406
+CMP-1383,6/10/2024,Garbage Collection,Garbage Collection reported in Parks,City Center,Pending,Low,Parks & Recreation,,33.8731508,-118.6725608
+CMP-1384,9/18/2024,Water Leakage,Water Leakage reported in Suburbs,Suburbs,Resolved,Critical,Parks & Recreation,5,33.8726815,-118.673681
+CMP-1385,2/23/2024,Water Leakage,Water Leakage reported in Suburbs,Residential Area,Pending,Low,Public Works,,33.8722122,-118.6748012
+CMP-1386,10/23/2023,Illegal Parking,Illegal Parking reported in Parks,Residential Area,Resolved,High,Sanitation,27,33.8717429,-118.6759214
+CMP-1387,3/28/2023,Street Lighting,Street Lighting reported in Residential Area,Parks,Resolved,High,Water Management,12,33.8712736,-118.6770416
+CMP-1388,6/9/2024,Noise Complaint,Noise Complaint reported in Suburbs,Suburbs,Resolved,High,Traffic,23,33.8708043,-118.6781618
+CMP-1389,2/3/2023,Garbage Collection,Garbage Collection reported in Industrial Area,Suburbs,Resolved,High,Public Works,3,33.870335,-118.679282
+CMP-1390,1/23/2023,Street Lighting,Street Lighting reported in City Center,Industrial Area,Resolved,High,Public Works,5,33.8698657,-118.6804022
+CMP-1391,12/22/2023,Street Lighting,Street Lighting reported in Downtown,Residential Area,Resolved,High,Parks & Recreation,8,33.8693964,-118.6815224
+CMP-1392,7/31/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Downtown,Resolved,Medium,Traffic,26,33.8689271,-118.6826426
+CMP-1393,2/1/2023,Water Leakage,Water Leakage reported in Suburbs,Industrial Area,Pending,Medium,Water Management,,33.8684578,-118.6837628
+CMP-1394,9/7/2023,Illegal Parking,Illegal Parking reported in Suburbs,Suburbs,Resolved,Medium,Parks & Recreation,4,33.8679885,-118.684883
+CMP-1395,9/8/2023,Water Leakage,Water Leakage reported in Suburbs,Parks,Pending,Low,Water Management,,33.8675192,-118.6860032
+CMP-1396,10/17/2023,Street Lighting,Street Lighting reported in Residential Area,Suburbs,Resolved,Low,Sanitation,18,33.8670499,-118.6871234
+CMP-1397,3/10/2024,Potholes,Potholes reported in Suburbs,Downtown,Escalated,High,Sanitation,,33.8665806,-118.6882436
+CMP-1398,8/6/2024,Illegal Parking,Illegal Parking reported in City Center,Parks,Pending,Critical,Water Management,,33.8661113,-118.6893638
+CMP-1399,2/6/2024,Water Leakage,Water Leakage reported in Residential Area,Suburbs,Resolved,Low,Sanitation,10,33.865642,-118.690484
+CMP-1400,3/1/2024,Illegal Parking,Illegal Parking reported in Parks,Industrial Area,In Progress,Low,Public Works,,33.8651727,-118.6916042
+CMP-1401,2/18/2024,Potholes,Potholes reported in City Center,Parks,Resolved,Critical,Water Management,30,33.8647034,-118.6927244
+CMP-1402,5/16/2024,Illegal Parking,Illegal Parking reported in Downtown,Parks,Resolved,Low,Traffic,27,33.8642341,-118.6938446
+CMP-1403,7/14/2024,Street Lighting,Street Lighting reported in Downtown,Residential Area,Pending,Low,Public Works,,33.8637648,-118.6949648
+CMP-1404,5/11/2023,Garbage Collection,Garbage Collection reported in Suburbs,Residential Area,Resolved,High,Public Works,7,33.8632955,-118.696085
+CMP-1405,4/8/2024,Garbage Collection,Garbage Collection reported in Downtown,Downtown,Resolved,Low,Water Management,27,33.8628262,-118.6972052
+CMP-1406,5/13/2024,Potholes,Potholes reported in City Center,City Center,Resolved,Medium,Traffic,30,33.8623569,-118.6983254
+CMP-1407,6/2/2023,Illegal Parking,Illegal Parking reported in Downtown,Suburbs,Pending,High,Parks & Recreation,,33.8618876,-118.6994456
+CMP-1408,7/11/2024,Garbage Collection,Garbage Collection reported in City Center,Residential Area,Pending,Low,Sanitation,,33.8614183,-118.7005658
+CMP-1409,4/8/2024,Noise Complaint,Noise Complaint reported in Suburbs,Industrial Area,In Progress,Medium,Public Works,,33.860949,-118.701686
+CMP-1410,8/6/2024,Water Leakage,Water Leakage reported in Parks,Industrial Area,In Progress,Medium,Water Management,,33.8604797,-118.7028062
+CMP-1411,5/22/2023,Potholes,Potholes reported in Parks,Residential Area,Pending,Low,Water Management,,33.8600104,-118.7039264
+CMP-1412,1/3/2023,Noise Complaint,Noise Complaint reported in Suburbs,Parks,In Progress,Low,Public Works,,33.8595411,-118.7050466
+CMP-1413,12/28/2024,Water Leakage,Water Leakage reported in Parks,Industrial Area,In Progress,Low,Public Works,,33.8590718,-118.7061668
+CMP-1414,11/5/2023,Potholes,Potholes reported in City Center,Industrial Area,Pending,High,Traffic,,33.8586025,-118.707287
+CMP-1415,7/31/2024,Street Lighting,Street Lighting reported in Residential Area,Downtown,Escalated,Low,Traffic,,33.8581332,-118.7084072
+CMP-1416,8/7/2023,Water Leakage,Water Leakage reported in Residential Area,Downtown,Resolved,Low,Parks & Recreation,3,33.8576639,-118.7095274
+CMP-1417,12/8/2023,Garbage Collection,Garbage Collection reported in City Center,Downtown,Pending,Low,Public Works,,33.8571946,-118.7106476
+CMP-1418,4/1/2024,Street Lighting,Street Lighting reported in Residential Area,City Center,Resolved,Low,Sanitation,8,33.8567253,-118.7117678
+CMP-1419,12/26/2024,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Escalated,High,Water Management,,33.856256,-118.712888
+CMP-1420,11/18/2024,Illegal Parking,Illegal Parking reported in Suburbs,Parks,Resolved,Low,Public Works,30,33.8557867,-118.7140082
+CMP-1421,3/7/2023,Illegal Parking,Illegal Parking reported in City Center,City Center,Resolved,Critical,Water Management,15,33.8553174,-118.7151284
+CMP-1422,2/29/2024,Water Leakage,Water Leakage reported in Industrial Area,Residential Area,Escalated,Medium,Water Management,,33.8548481,-118.7162486
+CMP-1423,9/4/2024,Garbage Collection,Garbage Collection reported in Downtown,Downtown,Resolved,Critical,Traffic,23,33.8543788,-118.7173688
+CMP-1424,7/17/2024,Water Leakage,Water Leakage reported in Parks,Industrial Area,Resolved,Low,Parks & Recreation,19,33.8539095,-118.718489
+CMP-1425,10/12/2024,Water Leakage,Water Leakage reported in Downtown,City Center,Pending,Low,Traffic,,33.8534402,-118.7196092
+CMP-1426,9/27/2024,Illegal Parking,Illegal Parking reported in Residential Area,Downtown,In Progress,Medium,Public Works,,33.8529709,-118.7207294
+CMP-1427,7/29/2024,Potholes,Potholes reported in Residential Area,Industrial Area,Resolved,Critical,Traffic,9,33.8525016,-118.7218496
+CMP-1428,8/24/2023,Illegal Parking,Illegal Parking reported in City Center,Parks,Resolved,High,Traffic,20,33.8520323,-118.7229698
+CMP-1429,4/3/2024,Garbage Collection,Garbage Collection reported in Suburbs,Parks,Resolved,Medium,Traffic,25,33.851563,-118.72409
+CMP-1430,3/9/2024,Street Lighting,Street Lighting reported in Industrial Area,Parks,Resolved,High,Sanitation,25,33.8510937,-118.7252102
+CMP-1431,8/16/2023,Street Lighting,Street Lighting reported in Parks,Downtown,Resolved,Medium,Public Works,25,33.8506244,-118.7263304
+CMP-1432,9/1/2023,Street Lighting,Street Lighting reported in Parks,Parks,In Progress,High,Traffic,,33.8501551,-118.7274506
+CMP-1433,3/31/2024,Potholes,Potholes reported in Industrial Area,City Center,Resolved,Medium,Water Management,18,33.8496858,-118.7285708
+CMP-1434,3/26/2023,Illegal Parking,Illegal Parking reported in Residential Area,Suburbs,Resolved,Medium,Water Management,3,33.8492165,-118.729691
+CMP-1435,8/3/2023,Illegal Parking,Illegal Parking reported in Parks,Industrial Area,Resolved,High,Parks & Recreation,14,33.8487472,-118.7308112
+CMP-1436,1/29/2023,Water Leakage,Water Leakage reported in Downtown,Downtown,Resolved,Low,Public Works,18,33.8482779,-118.7319314
+CMP-1437,1/14/2023,Water Leakage,Water Leakage reported in Suburbs,Industrial Area,Pending,Critical,Sanitation,,33.8478086,-118.7330516
+CMP-1438,4/23/2023,Street Lighting,Street Lighting reported in Suburbs,Residential Area,Pending,Low,Sanitation,,33.8473393,-118.7341718
+CMP-1439,7/1/2023,Garbage Collection,Garbage Collection reported in Parks,Downtown,Escalated,Medium,Traffic,,33.84687,-118.735292
+CMP-1440,9/1/2024,Garbage Collection,Garbage Collection reported in Parks,Parks,Resolved,Low,Water Management,25,33.8464007,-118.7364122
+CMP-1441,5/15/2023,Garbage Collection,Garbage Collection reported in Residential Area,City Center,In Progress,Critical,Sanitation,,33.8459314,-118.7375324
+CMP-1442,12/13/2024,Illegal Parking,Illegal Parking reported in Parks,Parks,Resolved,Medium,Public Works,26,33.8454621,-118.7386526
+CMP-1443,5/5/2024,Noise Complaint,Noise Complaint reported in Residential Area,Residential Area,Resolved,High,Public Works,23,33.8449928,-118.7397728
+CMP-1444,12/25/2024,Noise Complaint,Noise Complaint reported in Downtown,Residential Area,Resolved,High,Traffic,11,33.8445235,-118.740893
+CMP-1445,12/10/2023,Illegal Parking,Illegal Parking reported in Parks,City Center,Resolved,Low,Traffic,18,33.8440542,-118.7420132
+CMP-1446,11/20/2024,Garbage Collection,Garbage Collection reported in Residential Area,Industrial Area,Resolved,Medium,Public Works,29,33.8435849,-118.7431334
+CMP-1447,12/16/2023,Noise Complaint,Noise Complaint reported in Industrial Area,Parks,Resolved,High,Sanitation,14,33.8431156,-118.7442536
+CMP-1448,10/24/2023,Street Lighting,Street Lighting reported in City Center,Downtown,In Progress,Low,Sanitation,,33.8426463,-118.7453738
+CMP-1449,6/9/2024,Noise Complaint,Noise Complaint reported in Downtown,City Center,Resolved,High,Traffic,11,33.842177,-118.746494
+CMP-1450,4/15/2023,Potholes,Potholes reported in Downtown,Parks,Pending,Medium,Public Works,,33.8417077,-118.7476142
+CMP-1451,4/19/2023,Garbage Collection,Garbage Collection reported in Parks,Downtown,Resolved,High,Sanitation,30,33.8412384,-118.7487344
+CMP-1452,6/27/2023,Garbage Collection,Garbage Collection reported in Industrial Area,City Center,Pending,Medium,Parks & Recreation,,33.8407691,-118.7498546
+CMP-1453,11/27/2023,Street Lighting,Street Lighting reported in Parks,Industrial Area,Resolved,High,Sanitation,7,33.8402998,-118.7509748
+CMP-1454,10/9/2024,Street Lighting,Street Lighting reported in Downtown,Parks,In Progress,Medium,Public Works,,33.8398305,-118.752095
+CMP-1455,12/11/2024,Street Lighting,Street Lighting reported in Industrial Area,Industrial Area,Resolved,Medium,Traffic,26,33.8393612,-118.7532152
+CMP-1456,5/27/2024,Water Leakage,Water Leakage reported in City Center,Downtown,Resolved,Medium,Traffic,24,33.8388919,-118.7543354
+CMP-1457,5/26/2024,Garbage Collection,Garbage Collection reported in Suburbs,Parks,Escalated,Medium,Traffic,,33.8384226,-118.7554556
+CMP-1458,12/25/2024,Water Leakage,Water Leakage reported in Parks,Industrial Area,Resolved,Low,Sanitation,7,33.8379533,-118.7565758
+CMP-1459,10/6/2024,Street Lighting,Street Lighting reported in City Center,Suburbs,Resolved,Critical,Sanitation,19,33.837484,-118.757696
+CMP-1460,8/26/2023,Noise Complaint,Noise Complaint reported in City Center,Parks,Resolved,High,Water Management,21,33.8370147,-118.7588162
+CMP-1461,11/18/2024,Illegal Parking,Illegal Parking reported in Industrial Area,Industrial Area,Pending,Medium,Water Management,,33.8365454,-118.7599364
+CMP-1462,5/2/2023,Street Lighting,Street Lighting reported in Residential Area,Downtown,In Progress,Low,Public Works,,33.8360761,-118.7610566
+CMP-1463,12/14/2024,Water Leakage,Water Leakage reported in Parks,Residential Area,Resolved,Critical,Public Works,8,33.8356068,-118.7621768
+CMP-1464,6/15/2023,Street Lighting,Street Lighting reported in Parks,Residential Area,Resolved,Critical,Sanitation,18,33.8351375,-118.763297
+CMP-1465,2/13/2024,Water Leakage,Water Leakage reported in Residential Area,Industrial Area,Resolved,Medium,Public Works,9,33.8346682,-118.7644172
+CMP-1466,8/14/2024,Garbage Collection,Garbage Collection reported in Suburbs,Industrial Area,Resolved,Low,Water Management,20,33.8341989,-118.7655374
+CMP-1467,12/14/2024,Noise Complaint,Noise Complaint reported in Downtown,Downtown,Resolved,Low,Parks & Recreation,5,33.8337296,-118.7666576
+CMP-1468,1/20/2023,Water Leakage,Water Leakage reported in Industrial Area,Industrial Area,Resolved,High,Traffic,15,33.8332603,-118.7677778
+CMP-1469,2/10/2023,Garbage Collection,Garbage Collection reported in Parks,Suburbs,Resolved,High,Parks & Recreation,29,33.832791,-118.768898
+CMP-1470,2/9/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Suburbs,Escalated,Medium,Public Works,,33.8323217,-118.7700182
+CMP-1471,7/28/2024,Water Leakage,Water Leakage reported in Suburbs,Suburbs,Resolved,Medium,Water Management,20,33.8318524,-118.7711384
+CMP-1472,5/7/2023,Noise Complaint,Noise Complaint reported in Industrial Area,Parks,Resolved,High,Public Works,19,33.8313831,-118.7722586
+CMP-1473,12/15/2023,Garbage Collection,Garbage Collection reported in Suburbs,City Center,In Progress,Low,Water Management,,33.8309138,-118.7733788
+CMP-1474,7/24/2024,Garbage Collection,Garbage Collection reported in Parks,Industrial Area,Resolved,Critical,Traffic,4,33.8304445,-118.774499
+CMP-1475,1/23/2023,Water Leakage,Water Leakage reported in Downtown,Suburbs,Resolved,Low,Public Works,20,33.8299752,-118.7756192
+CMP-1476,8/31/2024,Illegal Parking,Illegal Parking reported in Residential Area,Industrial Area,In Progress,Low,Traffic,,33.8295059,-118.7767394
+CMP-1477,2/21/2024,Noise Complaint,Noise Complaint reported in City Center,Suburbs,Pending,Medium,Sanitation,,33.8290366,-118.7778596
+CMP-1478,9/6/2024,Garbage Collection,Garbage Collection reported in City Center,Residential Area,In Progress,Medium,Traffic,,33.8285673,-118.7789798
+CMP-1479,8/22/2024,Potholes,Potholes reported in Parks,Downtown,Resolved,Medium,Traffic,7,33.828098,-118.7801
+CMP-1480,12/1/2023,Noise Complaint,Noise Complaint reported in City Center,City Center,In Progress,Medium,Parks & Recreation,,33.8276287,-118.7812202
+CMP-1481,12/14/2024,Potholes,Potholes reported in Downtown,Industrial Area,Resolved,Critical,Sanitation,21,33.8271594,-118.7823404
+CMP-1482,4/17/2023,Potholes,Potholes reported in Suburbs,Industrial Area,Resolved,Low,Parks & Recreation,6,33.8266901,-118.7834606
+CMP-1483,2/9/2023,Garbage Collection,Garbage Collection reported in Residential Area,Residential Area,Resolved,Medium,Sanitation,13,33.8262208,-118.7845808
+CMP-1484,5/5/2023,Garbage Collection,Garbage Collection reported in Suburbs,Industrial Area,Resolved,Low,Water Management,9,33.8257515,-118.785701
+CMP-1485,4/30/2024,Noise Complaint,Noise Complaint reported in Industrial Area,Industrial Area,Pending,High,Traffic,,33.8252822,-118.7868212
+CMP-1486,8/30/2023,Noise Complaint,Noise Complaint reported in Parks,Industrial Area,Resolved,High,Traffic,29,33.8248129,-118.7879414
+CMP-1487,8/10/2024,Garbage Collection,Garbage Collection reported in Industrial Area,Downtown,Resolved,Low,Parks & Recreation,19,33.8243436,-118.7890616
+CMP-1488,5/26/2023,Noise Complaint,Noise Complaint reported in City Center,Residential Area,In Progress,High,Sanitation,,33.8238743,-118.7901818
+CMP-1489,1/1/2024,Illegal Parking,Illegal Parking reported in City Center,Downtown,Resolved,High,Public Works,19,33.823405,-118.791302
+CMP-1490,5/14/2023,Potholes,Potholes reported in Downtown,Suburbs,Escalated,High,Traffic,,33.8229357,-118.7924222
+CMP-1491,1/21/2024,Water Leakage,Water Leakage reported in City Center,City Center,Resolved,Low,Public Works,10,33.8224664,-118.7935424
+CMP-1492,6/26/2024,Illegal Parking,Illegal Parking reported in Suburbs,Downtown,In Progress,Low,Public Works,,33.8219971,-118.7946626
+CMP-1493,7/27/2023,Noise Complaint,Noise Complaint reported in Residential Area,Residential Area,Resolved,High,Traffic,27,33.8215278,-118.7957828
+CMP-1494,5/27/2023,Illegal Parking,Illegal Parking reported in City Center,Industrial Area,Resolved,Low,Sanitation,28,33.8210585,-118.796903
+CMP-1495,12/7/2023,Noise Complaint,Noise Complaint reported in Residential Area,Downtown,In Progress,Low,Public Works,,33.8205892,-118.7980232
+CMP-1496,5/17/2023,Illegal Parking,Illegal Parking reported in Residential Area,Parks,Pending,High,Sanitation,,33.8201199,-118.7991434
+CMP-1497,3/28/2024,Water Leakage,Water Leakage reported in Downtown,City Center,Resolved,Medium,Public Works,24,33.8196506,-118.8002636
+CMP-1498,9/11/2023,Potholes,Potholes reported in Industrial Area,Suburbs,Resolved,Medium,Water Management,25,33.8191813,-118.8013838
+CMP-1499,5/17/2023,Illegal Parking,Illegal Parking reported in Industrial Area,Downtown,Resolved,Medium,Water Management,12,33.818712,-118.802504
