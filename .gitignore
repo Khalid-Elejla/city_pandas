@@ -1,3 +1,4 @@
 .env
 cache/cache_db_0.11.db
 cache/cache_db_0.11.db.wal
+
